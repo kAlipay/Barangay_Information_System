@@ -16,7 +16,7 @@ namespace Barangay_Information_System
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmhousehold());
+            Application.Run(new searchengine());
         }
     }
 }

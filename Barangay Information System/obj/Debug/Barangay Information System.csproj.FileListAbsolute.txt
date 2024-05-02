@@ -7,3 +7,14 @@ C:\Users\63955\OneDrive - STI Valencia\Desktop\Barangay Information System\Baran
 C:\Users\63955\OneDrive - STI Valencia\Desktop\Barangay Information System\Barangay Information System\obj\Debug\Barangay Information System.exe
 C:\Users\63955\OneDrive - STI Valencia\Desktop\Barangay Information System\Barangay Information System\obj\Debug\Barangay Information System.pdb
 C:\Users\63955\OneDrive - STI Valencia\Desktop\Barangay Information System\Barangay Information System\obj\Debug\Barangay_Information_System.frmhousehold.resources
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Barangay_Information_System\Barangay Information System\bin\Debug\Barangay Information System.exe.config
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Barangay_Information_System\Barangay Information System\bin\Debug\Barangay Information System.exe
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Barangay_Information_System\Barangay Information System\bin\Debug\Barangay Information System.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Barangay_Information_System\Barangay Information System\obj\Debug\Barangay Information System.csproj.AssemblyReference.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Barangay_Information_System\Barangay Information System\obj\Debug\Barangay_Information_System.Properties.Resources.resources
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Barangay_Information_System\Barangay Information System\obj\Debug\Barangay Information System.csproj.GenerateResource.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Barangay_Information_System\Barangay Information System\obj\Debug\Barangay Information System.csproj.CoreCompileInputs.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Barangay_Information_System\Barangay Information System\obj\Debug\Barangay Information System.csproj.CopyComplete
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Barangay_Information_System\Barangay Information System\obj\Debug\Barangay Information System.exe
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Barangay_Information_System\Barangay Information System\obj\Debug\Barangay Information System.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Barangay_Information_System\Barangay Information System\obj\Debug\Barangay_Information_System.searchengine.resources

@@ -40,7 +40,7 @@ namespace Barangay_Information_System
                 // create a new SQL command:
                 sqlite_cmd = sqlite_conn.CreateCommand();
                 // Let the SQLiteCommand object know our SQL-Query:
-                sqlite_cmd.CommandText = "CREATE TABLE tblhousehold (lastname STRING (0, 20) NOT NULL, firstname  STRING (0, 20), gander STRING (0, 6) NOT NULL, address STRING (0, 40) NOT NULL, city STRING (0, 15) NOT NULL, company STRING (0, 30) NOT NULL, designation STRING (0, 20) NOT NULL, email STRING (0, 20) NOT NULL UNIQUE, contact1 STRING (0, 20) UNIQUE PRIMARY KEY, contact2 STRING (0, 20) UNIQUE, contact3 STRING (0, 20) UNIQUE);"; // Now lets execute the SQL ;D
+                sqlite_cmd.CommandText = "CREATE TABLE tblhousehold (lastname STRING (0, 20) NOT NULL, firstname  STRING (0, 20), middlename STRING (0, 20) NOT NULL, dateofbirth STRING (0, 40) NOT NULL, placeofbirth STRING (0, 30) NOT NULL, gender STRING (0, 6) NOT NULL, civilstatus STRING (0, 20) NOT NULL, citizenship STRING (0, 20) NOT NULL, phonenumber STRING (0, 20) PRIMARY KEY, profession STRING (0, 20), purok STRING (0, 20));"; // Now lets execute the SQL ;D
                 sqlite_cmd.ExecuteNonQuery();
                 sqlite_cmd.CommandText = "select * from User;";
                 sqlite_datareader = sqlite_cmd.ExecuteReader();
